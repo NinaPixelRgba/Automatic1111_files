@@ -124,7 +124,7 @@
     "live_preview_refresh_period": 1000,
     "hide_samplers": [],
     "eta_ddim": 0.0,
-    "eta_ancestral": 1.0,
+    "eta_ancestral": 0.3,
     "ddim_discretize": "uniform",
     "s_churn": 0.0,
     "s_tmin": 0.0,
